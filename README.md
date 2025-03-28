@@ -2,16 +2,19 @@
 
 Clone this starter:
 
+
+```
 git clone 
+
 ```
 
 Install dependencies
 
 ```
-
 cd weatherApp
-```
 
+```
+```
 npm install
 ```
 
